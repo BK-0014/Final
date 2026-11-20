@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(images/Background\ Image.png);
+  padding: 1rem;
+}
+
+.wrapper {
+  background-color: white;
+  max-width: 64rem;
+  margin: auto;
+  border: 10px solid rgb(0, 0, 0);
+  box-shadow: 2px 2px 20px black;
+}
+
+header {
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: aliceblue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 1em;
+  font-size: 200%;
+}
+
+
