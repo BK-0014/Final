@@ -58,7 +58,7 @@ nav a:hover {
 
 .page-grid {
   display: grid;
-  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-columns: 2.5fr 4fr 1fr;
   gap: 1rem;
 }
 
